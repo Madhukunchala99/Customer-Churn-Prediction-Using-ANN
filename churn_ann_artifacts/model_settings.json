@@ -1,0 +1,19 @@
+{
+    "threshold": 0.3,
+    "positive_class": "Yes",
+    "negative_class": "No",
+    "feature_columns": [
+        "Age",
+        "Annual_Income",
+        "Tenure_Months",
+        "Monthly_Charges",
+        "Support_Calls_Last_3M",
+        "Data_Usage_GB",
+        "Satisfaction_Score",
+        "Contract_Type",
+        "Payment_Method",
+        "Region",
+        "Plan_Type"
+    ],
+    "model_status": "Experimental - Not for production deployment"
+}
